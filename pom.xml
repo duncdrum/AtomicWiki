@@ -50,8 +50,7 @@
 
         <exist.version>6.2.0</exist.version>
         <templating.version>1.2.1</templating.version>
-        <!-- TODO(DP): bump to 1.0.0 includes breaking changes -->
-        <markdown.version>0.7.1</markdown.version>
+        <markdown.version>2.0.0</markdown.version>
 
         <!-- used in the EXPath Package Descriptor -->
         <package-name>http://exist-db.org/apps/wiki</package-name>
